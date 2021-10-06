@@ -12,7 +12,7 @@ Step 1 = Enter Password > blackguard > For Run Script And ....
 
 See The Full Informations on System ! 
 
-Use On Server ! Windows & Linux > Python 3
+Windows & Linux > Python 3
 
 Team Speak : blackberryyts.ir
 
